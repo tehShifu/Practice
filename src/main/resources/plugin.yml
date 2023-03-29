@@ -1,0 +1,6 @@
+main: com.hysteria.practice.cPractice
+name: cPractice
+version: ${project.version}
+authors: ["ziue"]
+depend:
+  - HolographicDisplays
